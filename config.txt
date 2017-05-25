@@ -1,0 +1,13 @@
+ping 8.8.8.8
+ping 8.8.8.8
+ping 8.8.8.8
+ping 8.8.8.8
+ping 8.8.8.888888
+free_mem 10000
+free_space /var 9000
+free_space /tmp 64
+free_space /var/mysql 1024
+emails: omg@allani.pl ala@allani.pl kot@allani.pl
+slack key_here #room_name
+
+
